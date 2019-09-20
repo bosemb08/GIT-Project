@@ -6,7 +6,17 @@ public class Day3 {
 		{
 			count=count*i;
 		}
+<<<<<<< HEAD
+		
+		
+		
+		
+		
+		
+		System.out.println("the factorial of given number is");
+=======
 		System.out.println("The factorial of given number is");
+>>>>>>> 60803ca60845ac26f4243b121b6f7f8775b2f9cb
 		System.out.println(count);
 			}
 }
