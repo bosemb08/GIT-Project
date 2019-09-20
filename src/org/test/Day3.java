@@ -6,6 +6,7 @@ public class Day3 {
 		{
 			count=count*i;
 		}
+		System.out.println("The factorial of given number is");
 		System.out.println(count);
 			}
 }
